@@ -41,15 +41,16 @@ contract HireMeContract {
       }
     
     
-      modifier meetJobOfferRequierements(Job memory job){
-          require(job.isRemote);
-          require(job.isBlockchainRelated);
-          require(job.salary > salaryExpectations);
+      modifier meetJobOfferRequierements(Job memory _job){
+          require(_job.isRemote);
+          require(_job.isBlockchainRelated);
+          require(_job.salary > salaryExpectations);
           _;
       }
       
-      function sendJobOffer(Job memory job) public payable meetJobOfferRequierements(job) {
+      function sendJobOffer(Job memory _job) public payable meetJobOfferRequierements(_job) {
           contactMe(📫);
       }
     }
+}
 ```
