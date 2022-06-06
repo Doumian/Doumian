@@ -3,7 +3,7 @@
 ---
 #### I'm a Full-Stack Developer working in Valencia, Spain.
 
-- 🏢 I'm currently working at **@Mimacom**
+- 🏢 I'm currently working at **@Leadtech;**
 - ⚙️ I use daily: `.java`, `.sql`, `.mvn`, `.aws`
 - 🌍 I'm mostly active within the **Blockchain Community**
 - 🌱 Learning all about **Solidity Development**
