@@ -1,7 +1,7 @@
 <h3 align="center">👋 Aló! I'm David Larena González</h3>
 
 ---
-#### I'm a Full-Stack Developer working in Valencia, Spain.
+#### I'm a Backend Developer working in Valencia, Spain.
 
 - 🏢 I'm currently working at **@Leadtech;**
 - ⚙️ I use daily: `.java`, `.sql`, `.mvn`, `.aws`
