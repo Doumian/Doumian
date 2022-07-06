@@ -6,7 +6,7 @@
 - 🏢 I'm currently working at **@Leadtech;**
 - ⚙️ I use daily: `.java`, `.sql`, `.mvn`, `.aws`
 - 🌍 I'm mostly active within the **Blockchain Community**
-- 🌱 Learning all about **Solidity Development**
+- 🌱 Learning all about **Blockchain Development**
 - 💬 Ping me about **DeFi**, **Blockchain**, **Investments**, **Ethereum**
 - 📫 contactMe(): [linkedin.com/David-larena-gonzalez/](https://www.linkedin.com/in/david-larena-gonzalez/)
 
