@@ -4,7 +4,6 @@
 
 Backend Developer, Blockchain passionate, and Investment enthusiast.
 
----
 - 🏢 I'm currently searching for a new Role!
 - ⚙️ I use daily: `.java`, `.sql`, `.mvn`, `.aws`
 - 🌍 I'm mostly active within the **Software Developement Community**
