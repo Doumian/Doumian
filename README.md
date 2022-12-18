@@ -1,6 +1,6 @@
-<img align="center" src="img/me.png">
+<img align="center" src="img/me.jpg">
 
-<h1 align='center'><i>Hi, I'm David :wave:</i></h1>
+<h1 align='center'>Hi, I'm David :wave:</h1>
 
 Backend Developer, Blockchain passionate, and Investment enthusiast.
 
